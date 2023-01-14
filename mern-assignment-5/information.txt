@@ -1,0 +1,25 @@
+first step======
+=> app.js a sob library import korte hobe
+
+second step=====
+=> index.js a app.js ke import korte hobe and run korar jonno port diye listen kore dite hobe..
+
+third step=====
+=> routes folder a api.js er moddhe routes gulare import kore dite hobe
+
+fourth step======
+=> models create kore nite hobe
+
+fifth step======
+=> models diye controller create kore nite hobe
+
+sixth step=====
+=> then api er moddhe route create kore controller k add kore dite hobe
+
+
+
+
+
+
+
+
